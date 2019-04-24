@@ -1,4 +1,4 @@
-# word-clock
+# time-work
 
 #### 介绍
 用vue2.6构建一个抖音很火的【时间轮盘】小demo
@@ -18,10 +18,6 @@ npm run dev
 npm run build
 
 ```
-
-## 相关链接  
-- [《用vue2.6实现一个抖音很火的【时间轮盘】屏保小DEMO》（掘金）](https://juejin.im/post/5cbdbea3f265da037875967f)
-
 
 ## 技术点
 - vue2.6,vuex,cooik, VueI18n,js-cookie
